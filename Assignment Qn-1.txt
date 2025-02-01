@@ -1,0 +1,5 @@
+Assignment Qn-1
+
+Qn: What happens if you remove the <br> tag?How does the page layout change?
+	
+Ans: If I do not use the <br> tag , there is no visible changes occur.
