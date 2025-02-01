@@ -1,0 +1,6 @@
+Assignment Qn-11
+
+Qn: How does the nesting <a> tag inside <p> tag affect the display of the text? What happens if you move the <a> tag outside the <p> tag ?
+
+Ans:  If we use <a> tag inside the <p> tag , the word here is visible inside the paragraph.
+      If we use <a> tag outside the <p> tag, the word here is visible in a separate paragraph.                                        
