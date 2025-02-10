@@ -2,8 +2,8 @@
  h1{
    font-size:40px;
    background-color:yellow;
-   border-block-style:solid;
-   border-block-width:3px;
+   border:solid-black;
+   border-width:3px;
  }
 .head1{
   color:red;
